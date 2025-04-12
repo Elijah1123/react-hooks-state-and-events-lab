@@ -1,0 +1,18 @@
+.App {
+    transition: background-color 0.3s, color 0.3s;
+  }
+  
+  .App.dark {
+    background-color: black;
+    color: white;
+  }
+  
+  .App.light {
+    background-color: white;
+    color: black;
+  }
+  
+  .in-cart {
+    background-color: lightgreen;
+  }
+  
